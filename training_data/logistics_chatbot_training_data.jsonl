@@ -1,0 +1,498 @@
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "This sucks", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Find package 886", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "Status update on IND229?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "I want to check tracking number 969", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "complaint", "user_input": "My package is missing", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "Let me talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "Wrong product sent", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "There's a problem with my delivery", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "This bot isn't helping", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "Return my order", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "track_package", "user_input": "Find package 172", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "Let me talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "Wrong product sent", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "This sucks", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "agent_request", "user_input": "Real person please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "My package is missing", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "track_package", "user_input": "Track package IND655", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "I don't want this anymore", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "track_package", "user_input": "Can you track order 574?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "Worst experience ever", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "Idiot bot", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "agent_request", "user_input": "I want to talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "I received the wrong item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "Item arrived damaged", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Live agent please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Can you track order 589?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "Worst experience ever", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "complaint", "user_input": "Why is my delivery late?", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "This bot isn't helping", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "I received the wrong item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "I don't want this anymore", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "Worst experience ever", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "agent_request", "user_input": "Speak to representative", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "agent_request", "user_input": "Can I talk to someone real?", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "agent_request", "user_input": "Can I talk to someone real?", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "I'm suing you", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "greeting", "user_input": "Hi bot", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "What's the status of parcel 210?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "This sucks", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "You people are frauds", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Find package 191", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "complaint", "user_input": "There's a problem with my delivery", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "This sucks", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "agent_request", "user_input": "Real person please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "Still waiting for my parcel", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "It's been days and no package", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "This sucks", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "I want a refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "Order hasn't arrived", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "refund_request", "user_input": "Item arrived damaged", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Live agent please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "This sucks", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Bonjour", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "What's the status of parcel 782?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Hola", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Where is my package?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "This bot isn't helping", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "Item arrived damaged", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "Delivery is taking too long", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "Can I talk to someone real?", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "Item arrived damaged", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "Return my order", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "Idiot bot", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "It's been days and no package", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "Terrible service!", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "complaint", "user_input": "Package stuck at one location", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "Cancel my delivery", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "Cancel my delivery", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "track_package", "user_input": "What's the status of parcel 643?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "What's the status of parcel 249?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "complaint", "user_input": "My package is missing", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "I'm suing you", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Status update on IND321?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "Find package 966", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "Where's my order?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Hola", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "complaint", "user_input": "It's been days and no package", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "Live agent please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "I need to return it", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "track_package", "user_input": "Where is my package?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "Cancel my delivery", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "track_package", "user_input": "Can you track order 148?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "complaint", "user_input": "Why is my delivery late?", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hi bot", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "You're so dumb", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Bonjour", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "greeting", "user_input": "Hey there", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Can I talk to someone real?", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "My package is missing", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "track_package", "user_input": "Can you track order 457?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "Return my order", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "Package delayed", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Bonjour", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "I want a refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "I want a refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "I don't want this anymore", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Hi bot", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "complaint", "user_input": "I didn't receive my order", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "Can I talk to someone real?", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "greeting", "user_input": "Good morning", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "complaint", "user_input": "Still waiting for my parcel", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "refund_request", "user_input": "I don't want this anymore", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "Exchange this item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "Package stuck at one location", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "refund_request", "user_input": "Item arrived damaged", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "This is a scam", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "There's a problem with my delivery", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "This is a scam", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "Exchange this item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "You're so dumb", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "It's been days and no package", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "refund_request", "user_input": "Return my order", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Real person please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Can you track order 636?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "This bot isn't helping", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "There's a problem with my delivery", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "Worst experience ever", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "I don't want this anymore", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "I'm suing you", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "Idiot bot", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Hello", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "I want a refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Greetings", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "I hate this bot", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "complaint", "user_input": "It's been days and no package", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "This is a scam", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "Wrong product sent", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "I received the wrong item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "track_package", "user_input": "I want to check tracking number 872", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "Connect me to an agent", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Status update on IND990?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "I received the wrong item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Greetings", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "I'm suing you", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "You are useless", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "I hate this bot", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "Package delayed", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "Still waiting for my parcel", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "greeting", "user_input": "Good morning", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "This sucks", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Track package IND353", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "Real person please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Track my delivery 191", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "I received the wrong item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "agent_request", "user_input": "Connect me to an agent", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "It's been days and no package", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "It's been days and no package", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "I want to talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "greeting", "user_input": "Hi bot", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Live agent please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "I didn't receive my order", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hello", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Where's my order?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "Item arrived damaged", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "Wrong product sent", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "Order hasn't arrived", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "You're so dumb", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "Package stuck at one location", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "This sucks", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "Cancel my delivery", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "Package stuck at one location", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "There's a problem with my delivery", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "track_package", "user_input": "Find package 269", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "What's the status of parcel 529?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "complaint", "user_input": "Why is my delivery late?", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hey there", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Track my delivery 884", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "Terrible service!", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "I need to return it", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "Exchange this item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "There's a problem with my delivery", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "refund_request", "user_input": "Cancel my delivery", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Speak to representative", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "agent_request", "user_input": "Live agent please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "You're so dumb", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "Still waiting for my parcel", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Track my delivery 293", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "complaint", "user_input": "There's a problem with my delivery", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "track_package", "user_input": "Track my delivery 563", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "You are useless", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "You people are frauds", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "Worst experience ever", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "Package stuck at one location", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "It's been days and no package", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "There's a problem with my delivery", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "refund_request", "user_input": "Item arrived damaged", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "track_package", "user_input": "What's the status of parcel 945?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "I don't want this anymore", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "My package is missing", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Greetings", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "You are useless", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Hola", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "This sucks", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Good morning", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "I received the wrong item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "Order hasn't arrived", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "Speak to representative", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "I don't want this anymore", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Connect me to an agent", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "greeting", "user_input": "Good evening", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Find package 153", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "complaint", "user_input": "Still waiting for my parcel", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "Order hasn't arrived", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "refund_request", "user_input": "Cancel my delivery", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "Why is my delivery late?", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "track_package", "user_input": "Where's my order?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "Can I talk to someone real?", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "greeting", "user_input": "Hola", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Can I talk to someone real?", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "agent_request", "user_input": "Can I talk to someone real?", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "agent_request", "user_input": "I want to talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "I'm suing you", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "Why is my delivery late?", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "This bot isn't helping", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "agent_request", "user_input": "Need a real person", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "Return my order", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Hi bot", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "greeting", "user_input": "Hi bot", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Where is my package?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "Speak to representative", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "agent_request", "user_input": "Real person please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Package 755 hasn't arrived yet", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "You're so dumb", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Status update on IND380?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "Return my order", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "track_package", "user_input": "What's the status of parcel 758?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Good morning", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Track package IND776", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "What's the status of parcel 457?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Good morning", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "I want to check tracking number 814", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Hey there", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "This is a scam", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "Still waiting for my parcel", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "Can I talk to someone real?", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Where's my order?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "Track my delivery 187", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "Find package 726", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "I received the wrong item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "My package is missing", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "refund_request", "user_input": "I need to return it", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "I didn't receive my order", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "complaint", "user_input": "Order hasn't arrived", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "track_package", "user_input": "Track my delivery 779", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "complaint", "user_input": "Package delayed", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Good morning", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "I want to check tracking number 881", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Good morning", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "You people are frauds", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Status update on IND810?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "I want to talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "I'm suing you", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "Delivery is taking too long", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "greeting", "user_input": "Hi bot", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "I want a refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "Terrible service!", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "Item arrived damaged", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "track_package", "user_input": "Package 403 hasn't arrived yet", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "This sucks", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "I want a refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "Item arrived damaged", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "I need to return it", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "Package delayed", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "I didn't receive my order", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "refund_request", "user_input": "Wrong product sent", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Connect me to an agent", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "You're so dumb", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Can you track order 490?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "complaint", "user_input": "Order hasn't arrived", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "refund_request", "user_input": "Wrong product sent", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "You people are frauds", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "I want a refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "Exchange this item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Let me talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "I'm suing you", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "Exchange this item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "This is a scam", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "This is a scam", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "agent_request", "user_input": "Can I talk to someone real?", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Can you track order 954?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "complaint", "user_input": "It's been days and no package", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "There's a problem with my delivery", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "You're so dumb", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "My package is missing", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "greeting", "user_input": "Good evening", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Can you track order 830?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "Connect me to an agent", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "I'm suing you", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "agent_request", "user_input": "I want to talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "greeting", "user_input": "Hey there", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "complaint", "user_input": "Order hasn't arrived", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "Package stuck at one location", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "I want to talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "Order hasn't arrived", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "I'm suing you", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "I don't want this anymore", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "track_package", "user_input": "Can you track order 754?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "Where's my order?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Bonjour", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "I need to return it", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Live agent please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Track my delivery 417", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "You're so dumb", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Good evening", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "This is a scam", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "My package is missing", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "Connect me to an agent", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Where is my package?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "I want to talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "Idiot bot", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Where is my package?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Where's my order?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "Worst experience ever", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "I received the wrong item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "track_package", "user_input": "Package 611 hasn't arrived yet", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "Terrible service!", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "It's been days and no package", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hey there", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "Cancel my delivery", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Hey there", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "I want to talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Where is my package?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "Live agent please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "agent_request", "user_input": "Need a real person", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "Terrible service!", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "agent_request", "user_input": "Live agent please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "greeting", "user_input": "Bonjour", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Need a real person", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "Order hasn't arrived", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "greeting", "user_input": "Hello", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Live agent please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "You're so dumb", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "I received the wrong item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "I'm suing you", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Status update on IND218?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "You are useless", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "This sucks", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "You are useless", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Greetings", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Where's my order?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "Connect me to an agent", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "Exchange this item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Good evening", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Connect me to an agent", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Find package 994", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "I want a refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Hola", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Connect me to an agent", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "agent_request", "user_input": "Need a real person", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Can you track order 158?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "I need to return it", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "Exchange this item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Real person please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "greeting", "user_input": "Hey there", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "You're so dumb", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "This is a scam", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "I don't want this anymore", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "abuse", "user_input": "Terrible service!", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Hi bot", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Find package 755", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Hello", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "Exchange this item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "I need to return it", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "Cancel my delivery", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "Package delayed", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hola", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "greeting", "user_input": "Hi bot", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Track my delivery 517", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "complaint", "user_input": "Why is my delivery late?", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "track_package", "user_input": "Track package IND192", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "Worst experience ever", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "greeting", "user_input": "Hola", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Where's my order?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "Return my order", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "refund_request", "user_input": "Return my order", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Hi", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Package 668 hasn't arrived yet", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "Find package 501", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "Live agent please", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "There's a problem with my delivery", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "Delivery is taking too long", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "This bot isn't helping", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "Why is my delivery late?", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "Can I talk to someone real?", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Package 565 hasn't arrived yet", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "Exchange this item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "agent_request", "user_input": "Connect me to an agent", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "You people are frauds", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "You people are frauds", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "You are useless", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "agent_request", "user_input": "Connect me to an agent", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "greeting", "user_input": "Hello", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Track package IND584", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Greetings", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "Exchange this item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "Worst experience ever", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "Delivery is taking too long", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "track_package", "user_input": "Where's my order?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "Idiot bot", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "My package is missing", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "refund_request", "user_input": "I want a refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Hi bot", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "complaint", "user_input": "I didn't receive my order", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "Speak to representative", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "refund_request", "user_input": "I don't want this anymore", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "This is a scam", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Status update on IND322?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Hi bot", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "Exchange this item", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Hola", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "agent_request", "user_input": "I want to talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "I hate this bot", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "Not satisfied, want refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "I'm suing you", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "agent_request", "user_input": "This bot isn't helping", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "Still waiting for my parcel", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "This is a scam", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Package 127 hasn't arrived yet", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "Not satisfied, want refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "Order hasn't arrived", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Greetings", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "What's the status of parcel 501?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "Can you track order 618?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "greeting", "user_input": "Hola", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "greeting", "user_input": "Greetings", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Where's my order?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "Status update on IND238?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "agent_request", "user_input": "I want to talk to a human", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "track_package", "user_input": "Can you track order 336?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "I hate this bot", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "Terrible service!", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "agent_request", "user_input": "Transfer me to support", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "agent_request", "user_input": "Speak to representative", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "abuse", "user_input": "You are useless", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "abuse", "user_input": "Idiot bot", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "complaint", "user_input": "It's been days and no package", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "Package stuck at one location", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "abuse", "user_input": "This is a scam", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "refund_request", "user_input": "Not satisfied, want refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "abuse", "user_input": "I hate this bot", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "agent_request", "user_input": "Speak to representative", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "I didn't receive my order", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Hey", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "track_package", "user_input": "Package 232 hasn't arrived yet", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "complaint", "user_input": "Why is my delivery late?", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "track_package", "user_input": "Where is my package?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "abuse", "user_input": "You are useless", "bot_response": "\u26a0\ufe0f Please avoid using offensive language. Let's work together to solve your issue."}
+{"intent": "track_package", "user_input": "Find package 601", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "refund_request", "user_input": "I need to return it", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "I didn't receive my order", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "Still waiting for my parcel", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "greeting", "user_input": "Good morning", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "Wrong product sent", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "greeting", "user_input": "Hey there", "bot_response": "\ud83d\udc4b Hi! How may I assist you today? Track orders, report issues, request refunds or connect to an agent."}
+{"intent": "refund_request", "user_input": "Not satisfied, want refund", "bot_response": "\u21a9\ufe0f Please share your Tracking ID (e.g., IND123) and a reason for return. I'll help you right away."}
+{"intent": "complaint", "user_input": "I didn't receive my order", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "complaint", "user_input": "I didn't receive my order", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "track_package", "user_input": "What's the status of parcel 591?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "track_package", "user_input": "Status update on IND793?", "bot_response": "\ud83d\udce6 Please provide your tracking ID (e.g., IND123) to check the package status."}
+{"intent": "complaint", "user_input": "Delivery is taking too long", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
+{"intent": "agent_request", "user_input": "Need a real person", "bot_response": "\ud83d\udc69\u200d\ud83d\udcbc Connecting you to a human agent. Please hold..."}
+{"intent": "complaint", "user_input": "Delivery is taking too long", "bot_response": "\ud83d\ude1f I'm sorry to hear that. Please share your Tracking ID or delivery details so I can investigate."}
