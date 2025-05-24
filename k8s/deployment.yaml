@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ailogibot
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: ailogibot
+  template:
+    metadata:
+      labels:
+        app: ailogibot
+    spec:
+      containers:
+        - name: ailogibot
+          image: darksmiley1907/ailogibot
+          ports:
+            - containerPort: 8000
