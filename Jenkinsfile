@@ -36,8 +36,8 @@ pipeline {
                 sh '''
                     export KUBECONFIG=$HOME/.kube/config
                     kubectl config use-context minikube
-                    #kubectl delete -f k8s/deployment.yaml --ignore-not-found
-                    #kubectl delete -f k8s/service.yaml --ignore-not-found
+                    kubectl delete -f k8s/deployment.yaml --ignore-not-found
+                    kubectl delete -f k8s/service.yaml --ignore-not-found
                     kubectl apply -f k8s/deployment.yaml
                     kubectl apply -f k8s/service.yaml
                     kubectl rollout status deployment/ailogibot
