@@ -209,31 +209,31 @@ The application supports configuration via environment variables, which are esse
 
 # 📂 Project Structure Overview
 logisticsbot/
-├── app/                     # Main Django app
+├── app/                     # Main Django application logic
 │   ├── migrations/
-│   ├── static/              # App-specific static files
-│   ├── templates/           # App-specific templates
+│   ├── static/              # Static files specific to 'app'
+│   ├── templates/           # HTML templates specific to 'app'
 │   ├── admin.py
 │   ├── apps.py
 │   ├── models.py
 │   ├── tests.py
 │   ├── urls.py
 │   └── views.py
-├── logisticsbot/            # Project-level Django config
+├── logisticsbot/            # Django project settings and main configuration
 │   ├── __init__.py
 │   ├── asgi.py
 │   ├── settings.py
-│   ├── urls.py
+│   ├── urls.py              # Project-level URL routing
 │   └── wsgi.py
-├── static/                  # Global static files (CSS, JS)
-├── templates/               # Global templates
-├── venv/                    # Python virtual environment (if used)
-├── .gitignore               # Files to ignore in Git
-├── Dockerfile               # Docker image definition
-├── Jenkinsfile              # Jenkins CI/CD pipeline
-├── manage.py                # Django CLI entry point
-├── requirements.txt         # Python dependencies
-└── README.md                # Project README
+├── static/                  # Global static files (CSS, JS, images)
+├── templates/               # Global HTML templates
+├── venv/                    # Virtual environment (if created, should be in .gitignore)
+├── .gitignore               # Specifies intentionally untracked files that Git should ignore
+├── Dockerfile               # Instructions for building the Docker image
+├── Jenkinsfile              # Jenkins CI/CD pipeline configuration
+├── manage.py                # Django's command-line utility
+├── requirements.txt         # Python package dependencies
+└── README.md                # This file
 ---
 ## 👤 Author
 
