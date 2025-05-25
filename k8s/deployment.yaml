@@ -16,4 +16,4 @@ spec:
         - name: ailogibot
           image: darksmiley1907/ailogibot
           ports:
-            - containerPort: 8000
+            - containerPort: 80
