@@ -41,6 +41,7 @@ pipeline {
                     kubectl apply -f k8s/deployment.yaml
                     kubectl apply -f k8s/service.yaml
                     kubectl rollout status deployment/ailogibot
+                    kubectl port-forward service/ailogibot 8000:80
                 '''
             }
         }
