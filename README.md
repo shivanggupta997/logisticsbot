@@ -1,9 +1,6 @@
-```markdown
 # 🚛 LogisticsBot
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-<!-- Add other badges here if you have them, e.g., build status, Docker pulls -->
-<!-- [![Docker Pulls](https://img.shields.io/docker/pulls/darksmiley1907/ailogibot.svg)](https://hub.docker.com/r/darksmiley1907/ailogibot) -->
 
 **LogisticsBot** is an AI-powered chatbot platform tailored for the logistics and supply chain industry. Built with **Django** and **Python**, it helps automate customer interactions, track shipments, and provide real-time responses to logistics queries.
 
@@ -66,11 +63,9 @@ Follow these steps to run the application on your local machine:
     ```
 
 3.  **Install dependencies:**
-    (Assuming you have a `requirements.txt` file)
     ```bash
-    pip install -r requirements.txt
+    pip install django dotenv google.generativeai gunicorn
     ```
-    *If `requirements.txt` is missing, you might need to create it from your development environment or install Django and other dependencies manually (e.g., `pip install django ...`).*
 
 4.  **Apply database migrations:**
     ```bash
@@ -152,141 +147,3 @@ The official pre-built Docker image for this project is available on Docker Hub:
 You can pull it using:
 ```bash
 docker pull darksmiley1907/ailogibot:latest
-```
-
----
-
-## 🔁 Jenkins CI/CD Pipeline Setup
-
-This project includes a `Jenkinsfile` to automate the build, push to Docker Hub, and deployment processes.
-
-### Jenkins Pipeline Stages:
-
-1.  ✅ **Clone Repository:** Clones the source code from GitHub.
-2.  🛠️ **Build Docker Image:** Builds the Docker image using the `Dockerfile` and tags it with your Docker Hub username and repository name (e.g., `darksmiley1907/ailogibot`).
-3.  🚀 **Push to Docker Hub:** Pushes the built Docker image to Docker Hub. This requires Docker Hub credentials configured in Jenkins.
-4.  🏁 **Deploy Container:** Stops and removes any existing container with the same name, then runs the new image as a container on port 80.
-
-
-### Jenkins Setup Notes:
-
-1.  **Install Plugins:** Ensure your Jenkins instance has the `Docker Pipeline` (or `Docker Plugin`) and `Git` plugins installed.
-2.  **Docker Access:** The Jenkins agent executing the pipeline must have Docker installed and the Jenkins user must have permission to run Docker commands.
-3.  **Credentials:**
-    *   Create a "Username with password" credential in Jenkins for your Docker Hub account. Note its **ID** (e.g., `dockerhub-creds`) and update the `DOCKERHUB_CREDENTIALS` environment variable in the `Jenkinsfile` or pipeline configuration.
-4.  **Create Pipeline Job:**
-    *   Create a new "Pipeline" job in Jenkins.
-    *   Configure it to use "Pipeline script from SCM".
-    *   Set SCM to "Git", provide the repository URL (`https://github.com/shivanggupta997/logisticsbot.git`), and specify the branch (e.g., `main` or `master`).
-    *   The "Script Path" should be `Jenkinsfile` (which is the default).
-
----
-
-## ⚙️ Configuration & Environment Variables
-
-The application can be configured using environment variables. These are particularly important when running in Docker or via Jenkins.
-
-Key environment variables to consider (you might need to add these to your `Dockerfile` using `ENV` or pass them during `docker run` using `-e`):
-
--   `DJANGO_SECRET_KEY`: **Required.** A strong, unique secret key for Django.
-    *Example: `ENV DJANGO_SECRET_KEY="your_very_strong_secret_key_here"` in Dockerfile or `-e DJANGO_SECRET_KEY="value"` in `docker run`.*
--   `DEBUG`: Set to `False` for production, `True` for development.
-    *Example: `ENV DEBUG="False"`*
--   `ALLOWED_HOSTS`: Comma-separated list of hostnames the app can serve. For Docker, you might need `localhost,127.0.0.1` or `*` (less secure, for development).
-    *Example: `ENV ALLOWED_HOSTS="localhost,127.0.0.1,yourdomain.com"`*
--   `DATABASE_URL` (if using external DB): Connection string for your database (e.g., `postgres://user:pass@host:port/dbname`).
--   `OPENAI_API_KEY` (if using OpenAI): Your API key for OpenAI.
-
-For local development, you can create a `.env` file in the project root and use a library like `python-dotenv` to load these variables.
-**Example `.env` file:**
-```
-DJANGO_SECRET_KEY='your_local_secret_key'
-DEBUG=True
-ALLOWED_HOSTS='127.0.0.1,localhost'
-# OPENAI_API_KEY='sk-...'
-```
-Ensure `.env` is added to your `.gitignore` file.
-
----
-
-## 🌐 API Endpoints
-
-The primary interaction with the chatbot typically happens via specific API endpoints.
-
-| Method | URL             | Description                                  |
-| :----- | :-------------- | :------------------------------------------- |
-| GET    | `/`             | Serves the main home/chat interface (HTML).  |
-| POST   | `/api/chat/`    | (Example) Handles chatbot message submission and returns responses. (Verify actual endpoint in `urls.py`) |
-| GET    | `/admin/`       | Django admin interface.                      |
-
-*Please check your Django `app/urls.py` and `logisticsbot/urls.py` for the exact API endpoint definitions.*
-
----
-
-## 📂 Project Structure Overview
-
-```
-logisticsbot/
-├── app/                     # Main Django application logic
-│   ├── migrations/
-│   ├── static/              # Static files specific to 'app'
-│   ├── templates/           # HTML templates specific to 'app'
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-├── logisticsbot/            # Django project settings and main configuration
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py              # Project-level URL routing
-│   └── wsgi.py
-├── static/                  # Global static files (CSS, JS, images)
-├── templates/               # Global HTML templates
-├── venv/                    # Virtual environment (if created, should be in .gitignore)
-├── .gitignore               # Specifies intentionally untracked files that Git should ignore
-├── Dockerfile               # Instructions for building the Docker image
-├── Jenkinsfile              # Jenkins CI/CD pipeline configuration
-├── manage.py                # Django's command-line utility
-├── requirements.txt         # Python package dependencies
-└── README.md                # This file
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/your-feature-name`).
-3.  Make your changes and commit them (`git commit -m 'Add some feature'`).
-4.  Push to the branch (`git push origin feature/your-feature-name`).
-5.  Open a Pull Request.
-
-Please ensure your code adheres to any existing coding standards and includes tests where appropriate.
-
----
-
-## 🪪 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details (if you have one, otherwise state it here).
-
----
-
-## 👤 Author
-
-Made with ❤️ by **Shivang Gupta**
-
--   GitHub: [@shivanggupta997](https://github.com/shivanggupta997)
-
----
-
-## 🔗 Useful Links
-
--   **GitHub Repository:** [https://github.com/shivanggupta997/logisticsbot](https://github.com/shivanggupta997/logisticsbot)
--   **Docker Hub Image:** [https://hub.docker.com/r/darksmiley1907/ailogibot](https://hub.docker.com/repository/docker/darksmiley1907/ailogibot)
-
-```
