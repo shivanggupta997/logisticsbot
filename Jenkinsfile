@@ -41,6 +41,7 @@ pipeline {
                     kubectl apply -f k8s/deployment.yaml
                     kubectl apply -f k8s/service.yaml
                     kubectl rollout status deployment/ailogibot
+                    pkill -f 'kubectl port-forward' || true
                     nohup kubectl port-forward service/ailogibot 8000:80 > /tmp/portforward.log 2>&1 &
                 '''
             }
