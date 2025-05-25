@@ -208,6 +208,8 @@ The application supports configuration via environment variables, which are esse
 | `OPENAI_API_KEY`    | No       | If using OpenAI's API for AI-powered interactions. |
 
 # 📂 Project Structure Overview
+
+```
 logisticsbot/
 ├── app/                     # Main Django application logic
 │   ├── migrations/
@@ -234,6 +236,7 @@ logisticsbot/
 ├── manage.py                # Django's command-line utility
 ├── requirements.txt         # Python package dependencies
 └── README.md                # This file
+```
 ---
 ## 👤 Author
 
