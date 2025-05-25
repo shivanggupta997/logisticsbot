@@ -26,7 +26,7 @@ Ideal for companies looking to enhance customer experience and scale their suppo
 -   **Web Framework:** 🌐 Django
 -   **Containerization:** 🐳 Docker
 -   **CI/CD:** ⚙️ Jenkins
--   **AI/NLP (Optional):** Integration capabilities for OpenAI API or other similar services.
+-   **AI/NLP (Optional):** Integration capabilities for Gemini API or other similar services.
 -   **Database (Default Django):** SQLite (easily configurable to PostgreSQL, MySQL, etc.)
 
 ---
@@ -147,3 +147,104 @@ The official pre-built Docker image for this project is available on Docker Hub:
 You can pull it using:
 ```bash
 docker pull darksmiley1907/ailogibot:latest
+```
+# 🔁 Jenkins CI/CD Pipeline Setup
+
+This project includes a `Jenkinsfile` to automate the **build**, **push to Docker Hub**, and **deployment** processes.
+
+---
+
+## 🧪 Jenkins Pipeline Stages
+
+1. ✅ **Clone Repository**  
+   Clones the source code from GitHub.
+
+2. 🛠️ **Build Docker Image**  
+   Builds the Docker image using the `Dockerfile` and tags it with your Docker Hub username and repository name (e.g., `darksmiley1907/ailogibot`).
+
+3. 🚀 **Push to Docker Hub**  
+   Pushes the built Docker image to Docker Hub.  
+   🔐 Requires Docker Hub credentials configured in Jenkins.
+
+4. 🏁 **Deploy Container**  
+   Stops and removes any existing container with the same name, then runs the new image as a container on **port 80**.
+
+---
+
+## 🛠️ Jenkins Setup Notes
+
+1. **Install Plugins**
+   - Ensure Jenkins has the `Docker Pipeline` or `Docker` and `Git` plugins installed.
+
+2. **Docker Access**
+   - Jenkins agents must have Docker installed and permission to run Docker commands.
+
+3. **Credentials**
+   - Create a **“Username with password”** credential in Jenkins for your Docker Hub account.
+   - Note its **ID** (e.g., `dockerhub-creds`) and update the `Jenkinsfile` or pipeline environment variables.
+
+4. **Create Pipeline Job**
+   - Go to Jenkins → New Item → _Pipeline_
+   - Under **Pipeline script from SCM**:
+     - **SCM**: Git
+     - **Repo URL**: `https://github.com/shivanggupta997/logisticsbot.git`
+     - **Branch**: `main` or `master`
+     - **Script Path**: `Jenkinsfile`
+
+---
+
+## ⚙️ Configuration & Environment Variables
+
+The application supports configuration via environment variables, which are essential for security and flexibility.
+
+### 🔐 Key Environment Variables
+
+| Variable            | Required | Description |
+|---------------------|----------|-------------|
+| `DJANGO_SECRET_KEY` | ✅ Yes   | Secret key used by Django. Must be a strong, unique string. |
+| `DEBUG`             | No       | Set to `True` for development or `False` for production. |
+| `ALLOWED_HOSTS`     | ✅ Yes   | Comma-separated list of domains/IPs the app can serve. |
+| `DATABASE_URL`      | No       | If using an external DB (e.g., PostgreSQL). |
+| `OPENAI_API_KEY`    | No       | If using OpenAI's API for AI-powered interactions. |
+
+# 📂 Project Structure Overview
+logisticsbot/
+├── app/                     # Main Django app
+│   ├── migrations/
+│   ├── static/              # App-specific static files
+│   ├── templates/           # App-specific templates
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── logisticsbot/            # Project-level Django config
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── static/                  # Global static files (CSS, JS)
+├── templates/               # Global templates
+├── venv/                    # Python virtual environment (if used)
+├── .gitignore               # Files to ignore in Git
+├── Dockerfile               # Docker image definition
+├── Jenkinsfile              # Jenkins CI/CD pipeline
+├── manage.py                # Django CLI entry point
+├── requirements.txt         # Python dependencies
+└── README.md                # Project README
+---
+## 👤 Author
+
+Made with ❤️ by **Shivang Gupta**
+
+- GitHub: [@shivanggupta997](https://github.com/shivanggupta997)
+
+---
+
+## 🔗 Useful Links
+
+- 🗂 **GitHub Repository**: [https://github.com/shivanggupta997/logisticsbot](https://github.com/shivanggupta997/logisticsbot)
+- 🐳 **Docker Hub Image**: [https://hub.docker.com/r/darksmiley1907/ailogibot](https://hub.docker.com/r/darksmiley1907/ailogibot)
+
